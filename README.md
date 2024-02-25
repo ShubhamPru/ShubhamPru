@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ShubhamPru
 - 👀 I’m interested in coding and learning new things 
 - 🌱 I’m currently working as a theme developer
+- i did contributed in some aosp projects & built miui spark os 
 - 💞️ I’m looking to collaborate on xiomi development things
 - 📫 How to reach me insta @shubham.kumar.das
 
